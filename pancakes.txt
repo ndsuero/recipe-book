@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 1.One large egg.
 2.1 1/2 cup of milk.
-3. One spoon of Salt.
+3. One spoon of Salt.git 
 4. Two Chili Peppers.
-=======
-1. One large egg
-2. 1 1/2 cup of milk
-3. One spoon of Salt
-4. Two Chili peppers
->>>>>>> spicy
