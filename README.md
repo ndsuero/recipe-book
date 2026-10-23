@@ -2,7 +2,7 @@
 
 ## Dominican Recipes
 
-- Morir Sonando.
-- Dominican Dumplins.
+- Morir Soñando.
+- Dominican Dumplings.
 - Dominican Lemonade.
 
